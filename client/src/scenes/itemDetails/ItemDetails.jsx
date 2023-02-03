@@ -52,7 +52,7 @@ const ItemDetails = () => {
     <Box width="80%" m="80px auto">
       <Box display="flex" flexWrap="wrap" columnGap="40px">
         {/* IMAGES */}
-        <Box flex="1 1 40%" mb="40px">
+        <Box flex="1 1 10%" mb="40px">
           <img
             alt={item?.name}
             width="100%"

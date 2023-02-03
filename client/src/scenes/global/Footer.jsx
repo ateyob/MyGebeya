@@ -27,10 +27,18 @@ function Footer() {
             MyGebeya
           </Typography>
           <div>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat
+            MyGebeya is a comprehensive online clothes shopping platform that
+            provides customers with a convenient and personalized shopping
+            experience. With a user-friendly website, customers can easily
+            browse through a vast collection of clothing items, from casual wear
+            to formal attire, all handpicked to suit a range of styles and
+            preferences. Whether you're looking for the latest fashion trends or
+            just looking to update your wardrobe, MyGebeya is perfect for you.
+            {/* MyGebeya offers a hassle-free
+            way to purchase your favorite clothing items from the comfort of
+            your own home. With secure payment options, fast delivery, and a
+            dedicated customer support team, MyGebeya is the ultimate
+            destination for all your clothes shopping needs. */}
           </div>
         </Box>
 
